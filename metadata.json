@@ -1,0 +1,7 @@
+{
+  "name": "Gündem Asistanı",
+  "description": "Specify news sites to receive a text summary or a spoken word news briefing, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
